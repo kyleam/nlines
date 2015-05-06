@@ -90,7 +90,7 @@ The key \"?\" is reserved for displaying the help buffer."
 
 (defcustom nlines-column-delimiters
   '(("csv" . ","))
-  "Alist of (EXTENSION . DELIM) pairs.
+  "Alist of (EXT . DELIM) pairs.
 If a file has the extension EXT, pass DELIM as the argument to
 the '--separator' option of the 'column' program."
   :group 'nlines
