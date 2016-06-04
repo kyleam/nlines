@@ -3,6 +3,7 @@
 ;; Copyright (C) 2015 Kyle Meyer <kyle@kyleam.com>
 
 ;; Author:  Kyle Meyer <kyle@kyleam.com>
+;; URL: https://gitlab.com/kyleam/nlines
 ;; Keywords: convenience, files
 ;; Version: 0.1.0
 
